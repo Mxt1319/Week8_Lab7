@@ -28,6 +28,7 @@ public class FloridianDentalRecords {
      * The main method
      * @param args Passed in from the command line
      */
+
     public static void main(String[] args) {
 
         System.out.println("Lecture Project 1");
